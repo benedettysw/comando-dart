@@ -1,0 +1,32 @@
+import 'package:flutter/material.dart';
+
+void main() => runApp(const MyApp());
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      title: 'Material App',
+      home: Scaffold(
+        appBar: AppBar(
+          title: const Text('Material App Bar'),
+        ),
+        body: Padding(
+          padding: const EdgeInsets.all(100.0),
+          child: TextFormField(
+            decoration: const InputDecoration(
+              icon: Icon(Icons.people),
+              label: Text(
+                "Nombres",
+                style: TextStyle(color: Color.fromARGB(255, 189, 35, 35)),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
