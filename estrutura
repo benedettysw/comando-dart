@@ -4,3 +4,5 @@ importM (import 'package:flutter/material.dart';)
 debugShowCheckedModeBanner: false, (marca de agua)
 
 stf (estrutura) "layout"
+
+widget diseño y estrutura
