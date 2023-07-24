@@ -25,3 +25,12 @@ satatefull wiget (completo) si hereda todo
 render objeto (cumpla las carateristica )
 
 children (es una forma común de agregar múltiples widgets como hijos a un widget contenedor)
+
+
+Expanded (ES PARA EXPADIR tamaño y posición)
+
+extend (establecer una relación de herencia entre dos clases)
+
+clases ( una clase es como un plano o una receta para crear objetos. Cuando se crea una instancia de una clase)
+
+@override (se utiliza para indicar que un método de una clase hija está sobrescribiendo (anulando) un método con el mismo nombre en la clase padre)
