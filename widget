@@ -23,3 +23,5 @@ stateless widget (menos)  no se lleva nada
 satatefull wiget (completo) si hereda todo
 
 render objeto (cumpla las carateristica )
+
+children (es una forma común de agregar múltiples widgets como hijos a un widget contenedor)
