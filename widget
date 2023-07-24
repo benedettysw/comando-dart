@@ -9,6 +9,7 @@ textdirecion:________ltr
 
 build---crear app 
 
+build() es una parte fundamental de la programación de interfaces de usuario y se utiliza en la construcción de widgets.
 
 buildcontext (ayudante) busqueda y ubicacion
 
