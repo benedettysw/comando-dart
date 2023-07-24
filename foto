@@ -1,0 +1,2 @@
+  child: Image.network(
+                "https://cdn.icon-icons.com/icons2/37/PNG/512/barberschair_barberos_4119.png")));
