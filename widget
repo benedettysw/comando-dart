@@ -31,7 +31,7 @@ children (es una forma común de agregar múltiples widgets como hijos a un widg
 
 Expanded (ES PARA EXPADIR tamaño y posición)
 
-extend (establecer una relación de herencia entre dos clases)
+extend (establecer una relación de herencia entre dos clases) subclases
 
 clases ( una clase es como un plano o una receta para crear objetos. Cuando se crea una instancia de una clase)
 
