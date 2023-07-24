@@ -36,3 +36,5 @@ extend (establecer una relación de herencia entre dos clases)
 clases ( una clase es como un plano o una receta para crear objetos. Cuando se crea una instancia de una clase)
 
 @override (se utiliza para indicar que un método de una clase hija está sobrescribiendo (anulando) un método con el mismo nombre en la clase padre)
+
+FloatingActionButton ( que es un botón flotante que suele utilizarse para acciones principales o comunes en una interfaz de usuario.) 
