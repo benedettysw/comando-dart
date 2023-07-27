@@ -11,6 +11,7 @@ class Bene extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: const  Text('Hola'),
+           centerTitle: true, 
         ),
       ),
     );
