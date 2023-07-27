@@ -17,3 +17,30 @@ class Bene extends StatelessWidget {
     );
   }
 }
+
+
+//hola en el appbar y en el centro 
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(Bene());
+}
+
+class Bene extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        appBar: AppBar(
+          title: const Text('Hola'),
+          centerTitle: true,
+          backgroundColor: Colors.black,
+        ),
+        body: const Center(
+          child: Text("hola"),
+        ),
+      ),
+    );
+  }
+}
