@@ -2,3 +2,11 @@ void main (){
   List <int> edades = [12,21,34,56,76,87,87];
   print(edades);
 }
+
+var nombre = 'miguel';
+  print(nombre);
+
+
+ var nombre = 'miguels';
+  var saludo = 'hola $nombre';
+  print(saludo);
