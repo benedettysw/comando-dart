@@ -1,0 +1,4 @@
+void main (){
+  List <int> edades = [12,21,34,56,76,87,87];
+  print(edades);
+}
